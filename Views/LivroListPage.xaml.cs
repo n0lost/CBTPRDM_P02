@@ -3,7 +3,7 @@ using ProvaPRDM.Models;
 
 namespace ProvaPRDM.Views;
 
-/* NOME - CB */
+//Gabriel Afonso dos Santos - CB3026167
 public partial class LivroListPage : ContentPage
 {
     private readonly Database _db;
